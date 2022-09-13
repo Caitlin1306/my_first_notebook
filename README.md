@@ -96,4 +96,4 @@ for i in range(0,36):
   my_turtle.circle(60)
   my_turtle.color('green')
 
-[turtle_image](https://user-images.githubusercontent.com/113345339/190013191-0c484e92-dadf-48b2-b71e-d58d28d45fc5.png)
+[turtle image](https://user-images.githubusercontent.com/113345339/190013191-0c484e92-dadf-48b2-b71e-d58d28d45fc5.png)
