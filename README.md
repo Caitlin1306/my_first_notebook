@@ -17,7 +17,7 @@ men_lifting_weights_emojis = int(input("How many men lifting weights emojis woul
 print("🏋️" * men_lifting_weights_emojis)
 ```
 
-I also edited code that was incorrect eg I chanaged **4theloveofcode** to **fourtheloveofcode** = "Hello world" as I was informed numbers makes the readability of the code confusing and therefore cause an error/names cannot start with a number
+I also edited code that was incorrect eg I changed **4theloveofcode** to **fourtheloveofcode** = "Hello world" as I was informed numbers makes the readability of the code confusing and therefore cause an error/names cannot start with a number
 
 Another example of edited code that I corrected was mine&yours = "Our budget" to mine_and_yours = "Our budget" as names can not contain spaces, so we use _ instead and names can not contain any of these symbols eg :'",<>/?|!@#%^&*~-+ 
 
