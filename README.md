@@ -21,7 +21,7 @@ Another example of edited code that i corrected was mine&yours = "Our budget" to
 
 Please see attached hyperlink to where i found information and practiced code: [Variables Practice](https://deepnote.com/workspace/katia-punter-1f84-20b2cf09-5782-4ce3-8cf7-1522f2bd3efb/project/variables-data-types-d1b4c8ad-c09d-4ba7-8b1c-94f5cad60958/%2Fnotebook.ipynb)
 
----
+```
 
 ### Diffrent websites i have used to practice code
 
@@ -95,5 +95,7 @@ for i in range(0,36):
   my_turtle.circle(60)
   my_turtle.circle(60)
   my_turtle.color('green')
+  
+  ```
 
 [turtle image](https://user-images.githubusercontent.com/113345339/190013191-0c484e92-dadf-48b2-b71e-d58d28d45fc5.png)
